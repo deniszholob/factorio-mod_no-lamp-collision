@@ -1,12 +1,12 @@
 {
   "name": "ddd-no-lamp-collision",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "title": "DDD No Lamp Collision",
   "author": "DDDGamer, Dentur",
   "contact": "https://github.com/deniszholob/factorio-mod_no-lamp-collision/issues",
   "homepage": "https://discord.gg/PkyzXzz",
   "description": "This Mod removes the collision of Lamps to allow you to drive over them.",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.0.0"
   ]
