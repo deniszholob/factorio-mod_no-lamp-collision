@@ -1,8 +1,27 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+dist
 
-# Created by https://www.gitignore.io/api/lua
-# Edit at https://www.gitignore.io/?templates=lua
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
 
-### Lua ###
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
 # Compiled Lua sources
 luac.out
 
@@ -43,7 +62,3 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
-
-
-# End of https://www.gitignore.io/api/lua
-Releases/
